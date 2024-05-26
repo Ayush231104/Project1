@@ -1,3 +1,3 @@
 # First progect
 
-clone of "sptify app" using only "html, css".
+clone of "spotify app" using only "html, css".
